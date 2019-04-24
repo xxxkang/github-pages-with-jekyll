@@ -1,3 +1,3 @@
 # Welcome to my blog
 
-I'm glad you are here. I plan to talk about ...
+This is meant to be an experimental webpage that I use to explore how to set up a GitHub Pages website.
